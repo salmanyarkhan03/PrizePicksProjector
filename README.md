@@ -1,6 +1,6 @@
 ﻿# PrizePicksProjector
 PrizePicks Prediction Tool
-🏀 PrizePicks Prediction Tool is a web-based application built using Streamlit that predicts whether an NBA player's performance will exceed or fall below a specific line for a given statistic. It also visualizes the player's recent game performance with an interactive chart.
+🏀 is a web-based application built using Streamlit that predicts whether an NBA player's performance will exceed or fall below a specific line for a given statistic. It also visualizes the player's recent game performance with an interactive chart.
 
 Features
 Player Performance Prediction:
